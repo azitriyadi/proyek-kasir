@@ -1,4 +1,4 @@
-# proyek-kasir
+# proyek-kasir php native
 # peraturan pengerjaaan : 
 # 1. boleh menggunakan chat GPT tapi untuk memahami bahasa pemrograman nya saja, tidak boleh di bantu GPT untuk membuat proyek kasir.
 
