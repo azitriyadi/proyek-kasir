@@ -8,4 +8,4 @@
 # jadi nanti meiliki lebih dari 1 branch 
 # 2.ada branch main untuk pengumpulan nya 
 # sekian terimakasih 
-# semnagat ngoding 
+# semnangat ngoding 
