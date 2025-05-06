@@ -6,6 +6,6 @@
 # 1.bikin branc masing masing sesuai dengan pengerjaan contoh : 
 # nama branch : fitur 1 
 # jadi nanti meiliki lebih dari 1 branch 
-# ada branch main untuk pengumpulan nya 
+# 2.ada branch main untuk pengumpulan nya 
 # sekian terimakasih 
 # semnagat ngoding 
